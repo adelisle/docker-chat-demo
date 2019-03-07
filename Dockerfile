@@ -1,7 +1,7 @@
-FROM node:4.3.2
+FROM node:8.11.4
 
 RUN useradd --user-group --create-home --shell /bin/false app &&\
-  npm install --global npm@3.7.5 && npm install --global nodemon
+  npm install --global npm@6.4.1 && npm install --global nodemon
 
 ENV HOME=/home/app
 
