@@ -131,7 +131,8 @@
       "dependencies": {
         "debug": {
           "version": "0.7.4",
-          "from": "debug@0.7.4"
+          "from": "debug@0.7.4",
+          "resolved": "https://registry.npmjs.org/debug/-/debug-0.7.4.tgz"
         },
         "parseuri": {
           "version": "0.0.4",
@@ -361,7 +362,8 @@
         },
         "ms": {
           "version": "0.6.2",
-          "from": "ms@0.6.2"
+          "from": "ms@0.6.2",
+          "resolved": "https://registry.npmjs.org/ms/-/ms-0.6.2.tgz"
         }
       }
     },
@@ -372,7 +374,8 @@
       "dependencies": {
         "debug": {
           "version": "0.7.4",
-          "from": "debug@0.7.4"
+          "from": "debug@0.7.4",
+          "resolved": "https://registry.npmjs.org/debug/-/debug-0.7.4.tgz"
         }
       }
     },
@@ -383,7 +386,8 @@
       "dependencies": {
         "debug": {
           "version": "0.7.4",
-          "from": "debug@0.7.4"
+          "from": "debug@0.7.4",
+          "resolved": "https://registry.npmjs.org/debug/-/debug-0.7.4.tgz"
         }
       }
     },
